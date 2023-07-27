@@ -1,7 +1,8 @@
 # Proyecto1.freelancer (Responsive)
 Este es mi portafolio profesional donde muestro mis proyectos de Desarrollo de Software y Desarrollo web.
 
-![Alexandra-Santa-Muñoz](paginaFreelance2.png)
+![paginaFreelance2](https://github.com/alexa272/Proyecto1.freelancer/assets/16126265/c3ea5380-f814-4da7-bc8b-7971cb97a8be)
+
 
 ## Autora
 
