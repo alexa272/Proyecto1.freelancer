@@ -14,7 +14,7 @@ Este es el [link](https://github.com/alexa272/Proyecto1.freelancer/tree/main) a 
 
 ## Sitio web
 
-Aqui puedes ver en vivo mi portafolio [link](https://paginafreelancerasm.netlify.app/)
+Aqui puedes ver vivo este proyecto [link](https://paginafreelancerasm.netlify.app/)
 
 ## Tecnologías
 
